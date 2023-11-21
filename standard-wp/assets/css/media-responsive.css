@@ -1,0 +1,192 @@
+@media only screen and (max-width: 1050px) {
+
+    h3 {
+        font-size: 35px;
+    }
+
+    .logoContainer {
+        text-align: center;
+    }
+
+    .logoContainer img {
+        max-width: 100%;
+        width: auto;
+        min-width: auto;
+    }
+
+    .navContainer ul li {
+        padding: 0 10px;
+    }
+
+    .bannerText {
+        width: auto;
+    }
+
+    .servicesContainer ul li h4 {
+        font-size: 25px;
+    }
+
+    .partner {
+        min-height: 465px;
+    }
+
+    .innercontainBox {
+        min-height: 440px;
+    }
+
+    .servicesContainer .serviceContent {
+    height: 260px;
+}
+
+
+}
+
+@media only screen and (max-width: 991px) {
+
+    h3 {
+        font-size: 25px;
+    }
+
+    .topContact p {
+        text-align: center;
+        padding: 5px 0;
+        font-size: 12px;
+    }
+
+    .topContact ul {
+        text-align: center;
+    }
+
+    .topContact ul li {
+        padding: 15px;
+    }
+
+    .topContact p a {
+        font-size: 12px;
+    }
+
+    .topSocial ul {
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    .bannerText {
+        width: auto;
+    }
+
+    .servicesContainer ul li h4 {
+        min-height: 100px;
+        font-size: 20px;
+    }
+
+    .recentBlog h5 {
+        font-size: 20px;
+    }
+
+    .partnerImg {
+        width: 100%;
+        float: none;
+    }
+
+    .partnerText {
+        padding-top: 15px;
+        width: 100%;
+    }
+
+    .servicesContainer .serviceContent {
+    height: 400px;
+    }
+}
+
+
+@media only screen and (max-width: 767px) {
+
+    h3 {
+        font-size: 35px;
+        text-align: center;
+    }
+
+    .bannerText {
+        display: none;
+    }
+
+    .servicesContainer ul li {
+        width: 100%;
+        padding: 30px 0;
+    }
+
+    .servicesContainer ul li h4 {
+        min-height: auto;
+        font-size: 25px;
+    }
+
+    .recentBlog h5 {
+        font-size: 25px;
+    }
+
+    .more {
+        text-align: center;
+    }
+
+    .footerContainer p {
+        text-align: center;
+    }
+
+    .footerNav ul {
+        text-align: center;
+    }
+
+    .footerNav ul li {
+        display: block;
+        padding: 5px 0;
+    }
+
+    .innercontainBox {
+        min-height: auto;
+        text-align: center;
+    }
+
+    .faqContainer {
+        text-align: center;
+    }
+
+    .submit {
+        float: none;
+        display: block;
+        margin: 20px auto 0;
+    }
+
+    .glossaryTable thead {
+        display: none;
+    }
+
+    .glossaryTable tr td {
+        display: block;
+        width: 100%;
+    }
+
+    .servicesContainer .serviceContent {
+    height: auto;
+    }
+
+    .topContact ul li {
+        padding: 0 25px !important;
+    }
+
+
+}
+
+
+@media only screen and (max-width: 640px) {
+ .aboutBottomContainer img {
+     min-width: auto;
+     width: 80%;
+ }
+
+}
+
+
+@media only screen and (max-width: 479px) {
+
+
+}

@@ -1,0 +1,259 @@
+@media only screen and (max-width: 1050px) {
+
+    .loginPart p a {
+        padding: 0 10px;
+    }
+
+    .ourCollection ul li {
+        width: 45%;
+    }
+
+    .eventBoxContain {
+        padding: 30px 30px 0 30px;
+    }
+
+    .ourShopIn {
+        margin-top: 10px;
+    }
+
+    .partyImg ul li {
+        width: 32%;
+    }
+
+}
+
+@media only screen and (max-width: 991px) {
+
+    .eventBoxContain {
+        padding: 20px 20px 0 20px;
+    }
+
+    .eventBoxContain h4 {
+        font-size: 28px;
+    }
+
+    .eventBoxContain p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+
+    .eventBoxBtn {
+        padding-top: 20px;
+    }
+
+    .ourShopIn {
+        width: 98%;
+    }
+
+    .ourShopBtn {
+        padding-top: 15px;
+    }
+
+    .ourShopIn h3 {
+        font-size: 58px;
+    }
+
+    .populerIteamIn img {
+        max-width: 100%;
+    }
+
+    .footerNav ul li {
+        padding-right: 30px;
+    }
+
+    .collection ul li {
+        width: 28%;
+    }
+
+    .sideBar h6 {
+        font-size: 17px;
+    }
+
+    .partyImg img {
+        min-width: 100%;
+    }
+
+}
+
+
+@media only screen and (max-width: 767px) {
+
+    h4 {
+        text-align: center;
+    }
+
+    .logo {
+        text-align: center;
+    }
+
+    .loginPart {
+        text-align: center;
+    }
+
+    .cart {
+        text-align: center;
+    }
+
+    .ourCollection {
+        padding-top: 50px;
+    }
+
+    .ourCollection ul li p {
+        text-align: center;
+    }
+
+    .space {
+        margin: 20px 0; 
+    }
+
+    .eventBoxContain {
+        padding-bottom: 20px;
+    }
+
+    .eventBoxContain p {
+        text-align: center;
+    }
+
+    .eventBoxBtn {
+        text-align: center;
+    }
+    
+     .ourShopIn {
+        margin-top: 20px;
+        margin-bottom: 40px;
+    }
+
+    .populerIteamIn img {
+        min-width: 100%;
+    }
+
+    .populerIteamIn p {
+        width: 100%;
+        text-align: center;
+    }
+
+    .populerIteamIn h6 {
+        text-align: center;
+    }
+
+    .footerNav {
+        text-align: center;
+    }
+
+    .copyright {
+        text-align: center;
+    }
+
+    .copyright p {
+        margin-bottom: 15px;
+    }
+
+    .footerSocial {
+        text-align: center;
+    }
+
+    .footerSocial ul {
+        padding: 0px;
+    }
+
+    .pageName {
+        text-align: center;
+    }
+
+    .ourStory {
+        text-align: center;
+    }
+
+    .sideBar h6 {
+        font-size: 22px;
+    }
+
+    .collection ul li {
+        width: 45%;
+    }
+
+    .collectionName p {
+        text-align: center;
+    }
+
+    .partyInfo h5 {
+        text-align: center;
+    }
+
+    .partyInfo p {
+        text-align: center;
+    }
+
+    .partyInfoPrice p {
+        text-align: center;
+    }
+
+    .partyCountaty {
+        text-align: center;
+    }
+
+    .productNumber p {
+        text-align: center;
+    }
+
+    .relatedProductIn {
+        text-align: center;
+    }
+
+    .relatedProductIn img {
+        min-width: 100%;
+    }
+
+    .relatedProductIn p {
+        text-align: center;
+        width: auto;
+    }
+
+    .relatedProductIn h6 {
+        text-align: center;
+    }
+
+    .sideBar {
+        text-align: center;
+    }
+
+    .grayBackground {
+        text-align: center;
+    }
+
+
+   
+}
+
+
+@media only screen and (max-width: 640px) {
+
+
+}
+
+
+@media only screen and (max-width: 479px) {
+
+    .ourCollection ul li {
+        width: auto;
+    }
+
+    .footerNav ul li {
+        display: block;
+        padding-right: 0px;
+        padding: 5px 0;
+    }
+
+    .col-container {
+        display: block;
+    }
+
+    .collection ul li {
+        width: auto;
+    }
+
+    .page-item .page-link {
+        font-size: 12px;
+    }
+
+}
